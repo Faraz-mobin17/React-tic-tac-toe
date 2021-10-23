@@ -1,6 +1,10 @@
 # SCREENSHOTS
 
 ![](./src/desktop.png)
+<br>
+![](./src/second.png)
+<br>
+![](./src/third.png)
 
 # Getting Started with Create React App
 
